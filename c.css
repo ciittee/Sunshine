@@ -52,7 +52,7 @@ header {
 .hh1 {
     font-size: 28px;
     font-weight: 700;
-    color: #fff38a;
+    color: #ffee53;
 }
 
 /* ===== NAV ===== */
@@ -114,6 +114,13 @@ section h1 {
     padding-left: 15px;
 }
 
+.hh2 {
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: #333;
+    border-left: 6px solid #ff9900;
+    padding-left: 15px;
+}
 /* ===== PRODUCTS ===== */
 
 .product-grid {
@@ -225,4 +232,3 @@ footer {
     font-size: 14px;
     color: #bbbbbb;
 }
-
